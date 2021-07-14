@@ -1,4 +1,4 @@
-- Hi, I’m @badar121
+- Hi, I’m Badar Shahbaz.
 - I’m interested in web development especially in WordPress.
 - I’m currently specializing in WordPress
 - I also write blogs related to web development and WordPress on my website https://vusialkot.com/
